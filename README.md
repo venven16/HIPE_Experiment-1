@@ -39,6 +39,18 @@ Example: print(emotify("Make me smile"))
 
 Output: Make me :)
 
+# 3. Unpacking List Problem 
+List: 'writeyourcodehere = [1, 2, 3, 4, 5, 6]'  
+
+Description: This list is used to list your variables. 
+
+Line: 'first, *middle, last = writeyourcodehere' 
+
+Description: Used to unpack all the elements on the list. '*middle' syntax is used to unpack all the elements between the first and last into the 'middle' variable. 
+
+Example: 'print("middle:", middle)' 
+
+Output: middle: [2, 3, 4, 5]
 
 
 
